@@ -1,0 +1,1 @@
+# Use-Azure-Synapse-Link-for-Azure-Cosmos-DB
